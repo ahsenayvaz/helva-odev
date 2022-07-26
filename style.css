@@ -1,0 +1,57 @@
+#baslik {
+    font-size: 65px;
+    font-family:'Montserrat', sans-serif;;
+    color: rgb(22, 22, 65);
+
+}
+
+.fstyle-Quicksand {
+    font-family: 'Quicksand', sans-serif;
+}
+
+h2 {
+    color: rgb(39, 161, 209);
+    font-family: 'Titillium Web', sans-serif;
+}
+
+
+
+
+.container {
+    width: 1400px;
+    height:600px;
+}
+
+.leftbar {
+    width: 700px;
+    float: left;
+    margin-top: 30px;
+
+}
+
+.content {
+    width: 700px;
+    float: left;
+}
+
+.clear {
+    clear: both;
+}
+
+body {
+    background-color: rgb(252, 252, 205);
+}
+
+ h3 {
+    font-family: 'Quicksand', sans-serif;
+ }
+
+ .bilgi .text-black {
+        color: black;
+    }
+ 
+
+ h3 span {
+    background-color: brown;
+    border-radius: 10px
+ }
